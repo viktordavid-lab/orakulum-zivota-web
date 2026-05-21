@@ -2,7 +2,7 @@
 
 Static HTML hosting pre mobilnú aplikáciu **Orákulum Života**.
 
-**Live:** https://orakulum-zivota-web.vercel.app
+**Live:** https://orakulum-zivota.vercel.app
 
 ## Stránky
 
