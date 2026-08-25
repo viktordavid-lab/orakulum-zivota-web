@@ -1,9 +1,10 @@
 # Orákulum Života — Web — ROADMAP
 
+> ⏳ **Dáta v tomto súbore sú k 21.05.2026** (96 dní). Novšie udalosti nemusia byť zachytené — pri rozhodovaní podľa čísel nižšie over aktuálnosť.
+
 **Repo:** `C:\1-Projekty\SlnkovSrdci\Orakulum-Web` · **Beží:** áno · **Aktualizované:** 25.8.2026
 **Live:** https://orakulum-zivota.inspiruj.online
 **Materský projekt:** [Slnko v Srdci](../ROADMAP.md) · **Appka:** [Orákulum Života](../Orakulum/ROADMAP.md)
-
 ## Stav
 
 | Stav | Popis |
@@ -11,7 +12,6 @@
 | ✅ LIVE | Static HTML hosting na Verceli — landing + privacy policy |
 
 **Účel:** hostí **Privacy Policy**, ktorú vyžaduje Google Play (a App Store) pre mobilnú appku Orákulum Života. Bez nej sa appka nedá publikovať.
-
 | URL | Účel |
 |-----|------|
 | `/` | Landing page (odkaz na privacy) |
