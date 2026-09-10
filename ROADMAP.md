@@ -16,6 +16,7 @@
 |-----|------|
 | `/` | Landing page (odkaz na privacy) |
 | `/orakulum-privacy.html` | Privacy Policy — **requirement Google Play / App Store** |
+| `/kody-zivota` | 🧪 **Testovacia web verzia appky Kódy života v0.6.6** (od 11.9.2026) — pre testerov zo seminára 12.9.; `noindex`; zdroj = `KodyZivota` repo, `scripts/export_web.py` sem kopíruje export (`experiments.baseUrl`). Dočasné — po spustení strešnej appky odstrániť. |
 
 **Stack:** static HTML (žiadny build) · Vercel auto-deploy z `public/` pri pushi na `main` · `vercel.json` = clean URLs + security headers
 
@@ -38,6 +39,7 @@
 
 ## História verzií
 
+- **2026-09-11** — `feat: testovacia web verzia Kody zivota v0.6.6 pod /kody-zivota` (`d759297`) — 53 súborov, 5,0 MB, Vercel auto-deploy overený (titulok + JS bundle 200)
 - **2026-05-21** — `docs: update live URL to orakulum-zivota.inspiruj.online` (`7b5ce2c`) — prechod na vlastnú doménu
 - **2026-05-21** — `docs: update live URL to orakulum-zivota.vercel.app` (`f52be6b`)
 - **2026-05-21** — `feat: initial orakulum-zivota-web` (`713c46a`) — založenie
