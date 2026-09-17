@@ -1,8 +1,6 @@
 # Orákulum Života — Web — ROADMAP
 
-> ⏳ **Dáta v tomto súbore sú k 21.05.2026** (96 dní). Novšie udalosti nemusia byť zachytené — pri rozhodovaní podľa čísel nižšie over aktuálnosť.
-
-**Repo:** `C:\1-Projekty\SlnkovSrdci\Orakulum-Web` · **Beží:** áno · **Aktualizované:** 25.8.2026
+**Repo:** `C:\1-Projekty\SlnkovSrdci\Orakulum-Web` · **Beží:** áno · **Aktualizované:** 17.9.2026 02:46
 **Live:** https://orakulum-zivota.inspiruj.online
 **Materský projekt:** [Slnko v Srdci](../ROADMAP.md) · **Appka:** [Orákulum Života](../Orakulum/ROADMAP.md)
 ## Stav
@@ -39,6 +37,8 @@
 
 ## História verzií
 
+- **2026-09-16** — `docs: ROADMAP` (`8c1ad2d`) · **2026-09-13** — `feat: odkaz na formular spatnej vazby vo Viac` (`42e4160`)
+- **2026-09-11** — `fix: 11/2 v karte K.III` (`6a9b11f`) · `fix: assety pod assets/vendor` (`c6afff5`) — fonty vracali 404 (cieľové repo ignoruje `node_modules/`)
 - **2026-09-11** — `feat: testovacia web verzia Kody zivota v0.6.6 pod /kody-zivota` (`d759297`) — 53 súborov, 5,0 MB, Vercel auto-deploy overený (titulok + JS bundle 200)
 - **2026-05-21** — `docs: update live URL to orakulum-zivota.inspiruj.online` (`7b5ce2c`) — prechod na vlastnú doménu
 - **2026-05-21** — `docs: update live URL to orakulum-zivota.vercel.app` (`f52be6b`)

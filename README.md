@@ -10,6 +10,7 @@ Static HTML hosting pre mobilnú aplikáciu **Orákulum Života**.
 |-----|------|
 | `/` | Landing page (link na privacy) |
 | `/orakulum-privacy.html` | Privacy Policy (Google Play / App Store requirement) |
+| `/kody-zivota` | Testovacia web verzia appky Kódy života (v0.6.6, `noindex`) — zdroj `KodyZivota/scripts/export_web.py`; dočasné do spustenia strešnej appky |
 
 ## Stack
 
