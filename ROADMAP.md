@@ -1,6 +1,6 @@
 # Orákulum Života — Web — ROADMAP
 
-**Repo:** `C:\1-Projekty\SlnkovSrdci\Orakulum-Web` · **Beží:** áno · **Aktualizované:** 17.9.2026 04:00
+**Repo:** `C:\1-Projekty\SlnkovSrdci\Orakulum-Web` · **Beží:** áno · **Aktualizované:** 17.9.2026 12:26
 **Live:** https://orakulum-zivota.inspiruj.online
 **Materský projekt:** [Slnko v Srdci](../ROADMAP.md) · **Appka:** [Orákulum Života](../Orakulum/ROADMAP.md)
 ## Stav
