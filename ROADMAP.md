@@ -14,7 +14,7 @@
 |-----|------|
 | `/` | Landing page (odkaz na privacy) |
 | `/orakulum-privacy.html` | Privacy Policy — **requirement Google Play / App Store** |
-| `/kody-zivota` | 🧪 **Testovacia web verzia appky Kódy života v0.6.7** (od 11.9.2026, v0.6.7 od 17.9.) — pre testerov zo seminára 12.9.; `noindex`; zdroj = `KodyZivota` repo, `scripts/export_web.py` sem kopíruje export (`experiments.baseUrl`). Dočasné — po spustení strešnej appky odstrániť. |
+| `/kody-zivota` | 🧪 **Testovacia web verzia appky Kódy života v0.6.8** (od 11.9.2026, v0.6.8 od 17.9.) — pre testerov zo seminára 12.9.; `noindex`; zdroj = `KodyZivota` repo, `scripts/export_web.py` sem kopíruje export (`experiments.baseUrl`). Dočasné — po spustení strešnej appky odstrániť. |
 
 **Stack:** static HTML (žiadny build) · Vercel auto-deploy z `public/` pri pushi na `main` · `vercel.json` = clean URLs + security headers
 
@@ -37,6 +37,7 @@
 
 ## História verzií
 
+- **2026-09-17** — `feat: Kody zivota web v0.6.8 - udrzba (tarotova tabulka)` (`4f45cf1`) — E2E na živej URL zelené
 - **2026-09-17** — `feat: Kody zivota web v0.6.7 - rocna vibracia od narodenin, plny list Moj kod` (`6080ba0`) — E2E na živej URL zelené
 - **2026-09-16** — `docs: ROADMAP` (`8c1ad2d`) · **2026-09-13** — `feat: odkaz na formular spatnej vazby vo Viac` (`42e4160`)
 - **2026-09-11** — `fix: 11/2 v karte K.III` (`6a9b11f`) · `fix: assety pod assets/vendor` (`c6afff5`) — fonty vracali 404 (cieľové repo ignoruje `node_modules/`)
